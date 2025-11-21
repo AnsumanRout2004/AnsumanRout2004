@@ -54,7 +54,7 @@
 
 <p align="center">
   <!-- skillicons.dev supported icons -->
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,mysql,github,sklearn,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,sklearn,tensorflow" />
 </p>
 
 <p align="center">
