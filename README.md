@@ -73,13 +73,43 @@
 ### 🔧 Core Skills
 - 📌 **Python**
 - 📌 **Data Analysis & EDA & Feature Engineering**  
-- 📌 **Statistics & Hypothesis Testing**  
+- 📌 **Statistics** 
 - 📌 **Machine Learning (Supervised & Unsupervised)**  
 - 📌 **Feature Engineering & Model Optimization**  
 - 📌 **Power BI (DAX | Power Query | Power BI Service | Power BI Desktop)**  
-- 📌 **SQL Querying & Database Design**  
+- 📌 **SQL Querying & Database Design** 
 
----
+## 🔧 Core Skills Banner
+
+<p align="center">
+  <!-- Python (Blue) -->
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" style="margin: 10px;"/>
+  
+  <!-- Data Analysis, EDA & Feature Engineering (Purple) -->
+  <img src="https://img.shields.io/badge/Data%20Analysis%20%26%20EDA%20%26%20Feature%20Engineering-6A1B9A?style=for-the-badge&logo=pandas&logoColor=white" height="40" alt="Data Analysis & EDA & Feature Engineering" style="margin: 10px;"/>
+  
+  <!-- Statistics (Gray) -->
+  <img src="https://img.shields.io/badge/Statistics-4B4B4B?style=for-the-badge&logo=R&logoColor=white" height="40" alt="Statistics" style="margin: 10px;"/>
+  
+  <!-- Machine Learning (Orange) -->
+  <img src="https://img.shields.io/badge/Machine%20Learning%20(Supervised%20%26%20Unsupervised)-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white" height="40" alt="Machine Learning" style="margin: 10px;"/>
+  
+  <!-- Feature Engineering & Model Optimization (Indigo) -->
+  <img src="https://img.shields.io/badge/Feature%20Engineering%20%26%20Model%20Optimization-3F51B5?style=for-the-badge&logo=scikitlearn&logoColor=white" height="40" alt="Feature Engineering & Model Optimization" style="margin: 10px;"/>
+  
+  <!-- Power BI (Green) -->
+  <img src="https://img.shields.io/badge/Power%20BI%20(DAX%20%7C%20Power%20Query%20%7C%20Service%20%7C%20Desktop)-2E7D32?style=for-the-badge&logo=powerbi&logoColor=white" height="40" alt="Power BI" style="margin: 10px;"/>
+  
+  <!-- SQL Querying & Database Design (Teal) -->
+  <img src="https://img.shields.io/badge/SQL%20Querying%20%26%20Database%20Design-008080?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="SQL Querying & Database Design" style="margin: 10px;"/>
+</p>
+##
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-008080?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-2E7D32?style=for-the-badge&logo=powerbi&logoColor=white"/>
+</p>
 
 ## 📊 GitHub Stats & Activity
 
@@ -104,9 +134,9 @@
 </p>
 
 <p align="center">
-  <!-- Top languages (focus on Data Science stack) -->
+  <!-- Top languages (focus on Python, SQL, ML, Power BI) -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnsumanRout2004&layout=compact&theme=radical&langs_count=8&hide=HTML,Jupyter%20Notebook,CSS"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnsumanRout2004&layout=compact&theme=radical&langs_count=8&hide=C,C%2B%2B,HTML,CSS,Jupyter%20Notebook,Shell&custom_title=Top%20Languages%20(DS%20Stack)"
     alt="Top languages for AnsumanRout2004"
     height="165"
     loading="lazy"
@@ -116,74 +146,9 @@
 <p align="center">
   <!-- GitHub activity graph -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AnsumanRout2004&theme=radical&hide_border=false"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AnsumanRout2004&theme=radical&hide_border=false&area=true&line=FF9800&point=3776AB"
     alt="GitHub activity graph for AnsumanRout2004"
     height="250"
     loading="lazy"
   />
 </p>
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <!-- Overall GitHub stats (Python Blue) -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AnsumanRout2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=3776AB&icon_color=3776AB"
-    alt="GitHub stats for AnsumanRout2004"
-    height="165"
-    loading="lazy"
-  />
-</p>
-
-<p align="center">
-  <!-- Contribution streak (SQL Teal) -->
-  <img 
-    src="https://streak-stats.demolab.com?user=AnsumanRout2004&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D&ring=008080&fire=008080&currStreakLabel=008080"
-    alt="GitHub streak stats for AnsumanRout2004"
-    height="165"
-    loading="lazy"
-  />
-</p>
-
-<p align="center">
-  <!-- Top languages (Power BI Green) -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnsumanRout2004&layout=compact&theme=radical&langs_count=8&hide=HTML,Jupyter%20Notebook,CSS&title_color=2E7D32&icon_color=2E7D32"
-    alt="Top languages for AnsumanRout2004"
-    height="165"
-    loading="lazy"
-  />
-</p>
-
-<p align="center">
-  <!-- GitHub activity graph (Machine Learning Orange) -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AnsumanRout2004&theme=radical&hide_border=false&color=FF9800&line=FF9800&point=FF9800"
-    alt="GitHub activity graph for AnsumanRout2004"
-    height="250"
-    loading="lazy"
-  />
-</p>
-
-## 🔧 Core Skills Banner
-
-<p align="center">
-  <!-- Python (Blue) -->
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" style="margin: 10px;"/>
-  
-  <!-- SQL (Teal) -->
-  <img src="https://img.shields.io/badge/SQL-008080?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="SQL" style="margin: 10px;"/>
-  
-  <!-- Statistics (Gray) -->
-  <img src="https://img.shields.io/badge/Statistics-4B4B4B?style=for-the-badge&logo=R&logoColor=white" height="40" alt="Statistics" style="margin: 10px;"/>
-  
-  <!-- Machine Learning (Orange) -->
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white" height="40" alt="Machine Learning" style="margin: 10px;"/>
-  
-  <!-- Power BI (Green) -->
-  <img src="https://img.shields.io/badge/Power%20BI-2E7D32?style=for-the-badge&logo=powerbi&logoColor=white" height="40" alt="Power BI" style="margin: 10px;"/>
-  
-  <!-- Data Analysis & EDA (Purple) -->
-  <img src="https://img.shields.io/badge/Data%20Analysis%20%26%20EDA-6A1B9A?style=for-the-badge&logo=pandas&logoColor=white" height="40" alt="Data Analysis & EDA" style="margin: 10px;"/>
-</p>
-
