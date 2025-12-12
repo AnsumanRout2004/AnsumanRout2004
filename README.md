@@ -145,3 +145,13 @@
     loading="lazy"
   />
 </p>
+
+##
+<p align="center">
+  <img src="https://img.shields.io/badge/Hacker%20Mindset-000000?style=for-the-badge&logo=matrix&logoColor=green" />
+  <img src="https://img.shields.io/badge/Data%20Monster-FF0000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code%20Wizard-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Slayer-008080?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML%20Beast-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI%20Sniper-2E7D32?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
