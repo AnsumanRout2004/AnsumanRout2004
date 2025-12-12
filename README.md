@@ -14,7 +14,7 @@
 ## 💫 About Me  
 
 🚀 Final-year CSE student With specializing in **Data Science **  
-🔍 Skilled in **Python, SQL (MySQL), EDA & Feature Engineering, Machine Learning, Deep Learning, Nlp (Natural Language Processing), Power BI (Power BI Desktop,Power BI Service,Power Query,DAX )**  
+🔍 Skilled in **Python, SQL (MySQL), EDA & Feature Engineering, Machine Learning, Deep Learning, NLP, Power BI (Desktop | Service | Power Query | DAX)**  
 📊 Experienced in building **predictive models & interactive dashboards**  
 💡 Passionate about solving problems with **data-driven insights**  
 📫 Reach me at: **ansumanrout533@gmail.com**  
@@ -102,13 +102,6 @@
   
   <!-- SQL Querying & Database Design (Teal) -->
   <img src="https://img.shields.io/badge/SQL%20Querying%20%26%20Database%20Design-008080?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="SQL Querying & Database Design" style="margin: 10px;"/>
-</p>
-##
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-008080?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-2E7D32?style=for-the-badge&logo=powerbi&logoColor=white"/>
 </p>
 
 ## 📊 GitHub Stats & Activity
